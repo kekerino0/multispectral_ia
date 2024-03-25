@@ -1,0 +1,14 @@
+{ 360.0 , 410.0 , 460.0 , 510.0 , 560.0 , 610.0 , 660.0 , 710.0 , 760.0 }
+
+methode avec l'intégrale
+
+band 1 : 0.1R + 0.45G + 0.45B
+band 2 : 0.1R + 0.65G + 0.25B 
+band 3 : 0.4R + 0.5G + 0.05B   
+band 4 : 0.7R + 0.3G 
+band 5 : 0.8R + 0.2G
+band 6 : 0.9R + 0.1G ou grayscale
+band 7 : 0.4R + 0.3G + 0.3B
+band 8 : 0.33R + 0.33G + 0.33B
+band 9 : 0.5R + 0.4G + 0.1B
+
